@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.redd.it/bspwm-recently-switched-back-to-arch-linux-v0-jqgk0eqavmva1.png?s=0ac57bc056173578ca9fa907f1f13eb91aaf4dcc" alt="Fundo" width="100%"/>
+  <img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4ibmr7CXmsW3cHWcNJqvO8noUaDtFFkNFgKso3Kx7XLC" alt="Fundo animado" width="100%"/>
 </p>
 
 
