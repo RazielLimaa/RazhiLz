@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.redd.it/bspwm-recently-switched-back-to-arch-linux-v0-jqgk0eqavmva1.png?s=0ac57bc056173578ca9fa907f1f13eb91aaf4dcc" alt="Fundo" width="100%"/>
+</p>
+
+
 # 🌟 Raziel | Criativo, Hiperfocado e Apaixonado por Tecnologia e Tudo que me trás curiosidade. 🚀
 
 > "O conhecimento é a única riqueza que aumenta quando compartilhada." – Epicarmo
