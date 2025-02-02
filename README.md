@@ -1,7 +1,9 @@
 # 🌟 Raziel | Criativo, Hiperfocado e Apaixonado por Tecnologia e Tudo que me trás curiosidade. 🚀
 
 > "O conhecimento é a única riqueza que aumenta quando compartilhada." – Epicarmo
+
 > "O conhecimento é como um fogo: se não o alimentamos, ele se apaga; se o alimentamos demais, ele nos consome." – Cleóbulo de Lindos
+
 > "O conhecimento é a chave que abre as portas da virtude, mas só a prática transforma a chave em ação." – Antístenes (filósofo grego, fundador da escola cínica, menos conhecido que seu discípulo Diógenes).
 
 👋 **Fala, dev!** Eu sou Raziel, um cara movido pela criatividade e por infinitas qualidades (modéstia faz parte também, viu? 😆). Tenho um hiperfoco absurdo quando coloco a mente em algo, então, quando começo um projeto, mergulho de cabeça até ver o resultado perfeito.
