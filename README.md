@@ -1,8 +1,19 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Oi 👋! Meu nome é Raziel</h2>
 
 ###
 
 <img align="right" height="250" src="https://i.pinimg.com/1200x/51/30/b0/5130b00cca275c357b0d9875ea276382.jpg"  />
+
+###
+
+<p align="left">
+  Tenho 17 anos e sou desenvolvedor front-end de Guarulhos, São Paulo 🇧🇷.<br><br>
+  Sou apaixonado por tecnologia, design e inovação, e gosto de transformar ideias em projetos digitais criativos. 
+  Atualmente, me dedico ao estudo de <b>React, Next.js, TailwindCSS</b> e integração com APIs para criar aplicações modernas e responsivas.<br><br>
+  Também sou fundador da <b>Bleya</b>, uma iniciativa focada em criar designs e soluções digitais personalizadas para empresas.  
+  Além disso, trabalho em projetos pessoais como o <b>ECOviva</b>, que incentiva a reciclagem e sustentabilidade dentro de escolas.<br><br>
+  Estou sempre em busca de evolução, novas experiências e oportunidades de colaboração para levar ideias do papel para a realidade 🚀.
+</p>
 
 ###
 
@@ -40,5 +51,3 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
