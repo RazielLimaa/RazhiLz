@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&pause=1000&color=09F700&multiline=true&width=435&lines=Opa!+Meu+Nome+%C3%89+Raziel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=33&pause=1000&color=09F700&multiline=true&width=435&lines=Opa!+Meu+Nome+%C3%89+Raziel%2C+Tudo+Bem%2C+Dev%3F)](https://git.io/typing-svg)
 ###
-
 <img align="right" height="250" src="https://i.pinimg.com/1200x/51/30/b0/5130b00cca275c357b0d9875ea276382.jpg"  />
 
 ###
